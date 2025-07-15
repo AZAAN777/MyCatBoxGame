@@ -1,7 +1,9 @@
 # 🐱 Cat Box Sort Game
 
 A fun and interactive Unity-based hyper-casual game where you sort cats into the correct trolleys by clicking boxes!
+## 🔗 Downloads
 
+👉 [Click to download APK](./Cat%20Puzzle.apk) 
 ---
 
 ## 🎮 Game Features
